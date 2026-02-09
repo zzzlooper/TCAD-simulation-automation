@@ -1,0 +1,13 @@
+campaign_name: tcad_dummy_sweep
+output_root: ../output
+command:
+  - python3
+  - ../dummy_simulator.py
+parameters:
+  voltage: [0.7, 0.9, 1.1, 1.3]
+  temperature: [250, 300, 350]
+  geometry: ["L40W10", "L55W12"]
+  fail_probability: [0.0]
+repeats: 2
+timeout_sec: 15
+max_workers: 4
