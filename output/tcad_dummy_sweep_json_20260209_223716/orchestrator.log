@@ -1,0 +1,19 @@
+2026-02-09 22:37:16 | INFO | Campaign directory: /home/a/Projects/Global Foundries/TCAD simulation/output/tcad_dummy_sweep_json_20260209_223716
+2026-02-09 22:37:16 | INFO | Loading sweep from: /home/a/Projects/Global Foundries/TCAD simulation/configs/sweep_demo.json
+2026-02-09 22:37:16 | INFO | Planned runs: 12
+2026-02-09 22:37:16 | INFO | Using worker processes: 3
+2026-02-09 22:37:17 | INFO | Completed 1/12 | run_0002 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:17 | INFO | Completed 2/12 | run_0001 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:17 | INFO | Completed 3/12 | run_0003 | status=success rc=0 duration=0.46s
+2026-02-09 22:37:17 | INFO | Completed 4/12 | run_0006 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:17 | INFO | Completed 5/12 | run_0004 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:17 | INFO | Completed 6/12 | run_0005 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:17 | INFO | Completed 7/12 | run_0009 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:18 | INFO | Completed 8/12 | run_0008 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:18 | INFO | Completed 9/12 | run_0007 | status=success rc=0 duration=0.41s
+2026-02-09 22:37:18 | INFO | Completed 10/12 | run_0011 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:18 | INFO | Completed 11/12 | run_0010 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:18 | INFO | Completed 12/12 | run_0012 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:18 | INFO | Campaign finished in 1.46s
+2026-02-09 22:37:18 | INFO | Summary CSV: /home/a/Projects/Global Foundries/TCAD simulation/output/tcad_dummy_sweep_json_20260209_223716/summary.csv
+2026-02-09 22:37:18 | INFO | Failed runs: 0

@@ -1,0 +1,55 @@
+2026-02-09 22:37:28 | INFO | Campaign directory: /home/a/Projects/Global Foundries/TCAD simulation/output/tcad_dummy_sweep_20260209_223728
+2026-02-09 22:37:28 | INFO | Loading sweep from: /home/a/Projects/Global Foundries/TCAD simulation/configs/sweep_demo.yaml
+2026-02-09 22:37:28 | INFO | Planned runs: 48
+2026-02-09 22:37:28 | INFO | Using worker processes: 4
+2026-02-09 22:37:28 | INFO | Completed 1/48 | run_0003 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:28 | INFO | Completed 2/48 | run_0002 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:28 | INFO | Completed 3/48 | run_0004 | status=success rc=0 duration=0.41s
+2026-02-09 22:37:28 | INFO | Completed 4/48 | run_0001 | status=success rc=0 duration=0.46s
+2026-02-09 22:37:28 | INFO | Completed 5/48 | run_0005 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:28 | INFO | Completed 6/48 | run_0006 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:28 | INFO | Completed 7/48 | run_0008 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:29 | INFO | Completed 8/48 | run_0007 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:29 | INFO | Completed 9/48 | run_0010 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:29 | INFO | Completed 10/48 | run_0009 | status=success rc=0 duration=0.46s
+2026-02-09 22:37:29 | INFO | Completed 11/48 | run_0011 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:29 | INFO | Completed 12/48 | run_0012 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:29 | INFO | Completed 13/48 | run_0014 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:29 | INFO | Completed 14/48 | run_0013 | status=success rc=0 duration=0.41s
+2026-02-09 22:37:29 | INFO | Completed 15/48 | run_0016 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:29 | INFO | Completed 16/48 | run_0015 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:29 | INFO | Completed 17/48 | run_0019 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:29 | INFO | Completed 18/48 | run_0018 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:30 | INFO | Completed 19/48 | run_0020 | status=success rc=0 duration=0.46s
+2026-02-09 22:37:30 | INFO | Completed 20/48 | run_0017 | status=success rc=0 duration=0.51s
+2026-02-09 22:37:30 | INFO | Completed 21/48 | run_0021 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:30 | INFO | Completed 22/48 | run_0022 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:30 | INFO | Completed 23/48 | run_0025 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:30 | INFO | Completed 24/48 | run_0024 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:30 | INFO | Completed 25/48 | run_0023 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:30 | INFO | Completed 26/48 | run_0026 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:30 | INFO | Completed 27/48 | run_0028 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:30 | INFO | Completed 28/48 | run_0027 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:30 | INFO | Completed 29/48 | run_0029 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:30 | INFO | Completed 30/48 | run_0033 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:30 | INFO | Completed 31/48 | run_0032 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:31 | INFO | Completed 32/48 | run_0031 | status=success rc=0 duration=0.41s
+2026-02-09 22:37:31 | INFO | Completed 33/48 | run_0030 | status=success rc=0 duration=0.51s
+2026-02-09 22:37:31 | INFO | Completed 34/48 | run_0034 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:31 | INFO | Completed 35/48 | run_0035 | status=success rc=0 duration=0.36s
+2026-02-09 22:37:31 | INFO | Completed 36/48 | run_0038 | status=failed rc=3 duration=0.21s
+2026-02-09 22:37:31 | INFO | Completed 37/48 | run_0036 | status=success rc=0 duration=0.46s
+2026-02-09 22:37:31 | INFO | Completed 38/48 | run_0037 | status=failed rc=3 duration=0.46s
+2026-02-09 22:37:31 | INFO | Completed 39/48 | run_0039 | status=failed rc=3 duration=0.26s
+2026-02-09 22:37:31 | INFO | Completed 40/48 | run_0040 | status=failed rc=3 duration=0.26s
+2026-02-09 22:37:31 | INFO | Completed 41/48 | run_0041 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:31 | INFO | Completed 42/48 | run_0042 | status=success rc=0 duration=0.31s
+2026-02-09 22:37:31 | INFO | Completed 43/48 | run_0044 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:31 | INFO | Completed 44/48 | run_0043 | status=success rc=0 duration=0.41s
+2026-02-09 22:37:32 | INFO | Completed 45/48 | run_0045 | status=success rc=0 duration=0.26s
+2026-02-09 22:37:32 | INFO | Completed 46/48 | run_0046 | status=success rc=0 duration=0.21s
+2026-02-09 22:37:32 | INFO | Completed 47/48 | run_0047 | status=success rc=0 duration=0.46s
+2026-02-09 22:37:32 | INFO | Completed 48/48 | run_0048 | status=success rc=0 duration=0.46s
+2026-02-09 22:37:32 | INFO | Campaign finished in 4.24s
+2026-02-09 22:37:32 | INFO | Summary CSV: /home/a/Projects/Global Foundries/TCAD simulation/output/tcad_dummy_sweep_20260209_223728/summary.csv
+2026-02-09 22:37:32 | INFO | Failed runs: 4

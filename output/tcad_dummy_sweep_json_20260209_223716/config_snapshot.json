@@ -1,0 +1,14 @@
+{
+  "campaign_name": "tcad_dummy_sweep_json",
+  "command": ["python3", "../dummy_simulator.py"],
+  "max_workers": 3,
+  "output_root": "../output",
+  "parameters": {
+    "fail_probability": [0.0],
+    "geometry": ["L42W10", "L48W11"],
+    "temperature": [300, 400],
+    "voltage": [0.8, 1.0, 1.2]
+  },
+  "repeats": 1,
+  "timeout_sec": 15
+}
